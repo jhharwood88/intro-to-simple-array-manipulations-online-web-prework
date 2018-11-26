@@ -1,6 +1,6 @@
 def using_push
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
-  new
+  updated_array = countries_in_western_africa.push(new_country)
 end
 
 def using_unshift
