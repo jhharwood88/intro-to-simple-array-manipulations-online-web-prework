@@ -41,7 +41,7 @@ def using_uniq
 end
 
 def using_flatten
-  
+  private_colleges_in_newyork = ["New York University", ["Manhattan School of Music ", "Columbia University"], "The Juilliard School", "Bard College", "Cooper Union"]
 end
 
 def using_delete
