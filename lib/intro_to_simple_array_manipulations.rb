@@ -17,7 +17,7 @@ end
 
 def pop_with_args(chars_in_game_of_thrones)
   chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
-  chars_in_game_of_thrones.pop!(2)
+  chars_in_game_of_thrones.!pop(2)
 end
 
 def using_shift
