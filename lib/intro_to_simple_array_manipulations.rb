@@ -8,7 +8,6 @@ def using_unshift(neighborhoods_in_northwest_brooklyn, updated_array)
   neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
   new_neighborhood = "Brooklyn Heights"
   updated_array = neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
-  updated_array.pop
 end
 
 def using_pop
