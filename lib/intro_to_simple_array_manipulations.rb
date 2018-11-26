@@ -41,7 +41,7 @@ def using_flatten(private_colleges_in_newyork)
 end
 
 def using_delete(instructors,"Steven")
-  instructors.delete
+  instructors.delete("Steven")
 end
 
 def using_delete_at(famous_robots)
