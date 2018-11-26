@@ -37,7 +37,7 @@ def using_insert
 end
 
 def using_uniq
-  
+  captain_planet_and_the_planeteers = ["Captain Planet", "Gaia", "Kwame", "Gi", "Linka", "Wheeler", "Gaia"]
 end
 
 def using_flatten
