@@ -49,5 +49,5 @@ def using_delete
 end
 
 def using_delete_at
-  
+  famous_robots = ["the dog from doctor who", "R2D2", "Ultron"]
 end
