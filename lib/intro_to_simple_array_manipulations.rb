@@ -1,7 +1,6 @@
 def using_push
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
-  using_push = "Niger"
-  countries_in_western_africa.push(using_push)
+  new
 end
 
 def using_unshift
