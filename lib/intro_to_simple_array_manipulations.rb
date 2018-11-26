@@ -4,7 +4,7 @@ def using_push(countries_in_western_africa, updated_array)
   updated_array = countries_in_western_africa.push(new_country)
 end
 
-def using_unshift
+def using_unshift(neighborhoods_in_northwest_brooklyn, new_array)
   neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
 end
 
