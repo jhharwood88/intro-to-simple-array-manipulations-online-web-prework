@@ -1,5 +1,6 @@
 def using_push(countries_in_western_africa, updated_array)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
+  new_country = "Niger"
   updated_array = countries_in_western_africa.push(new_country)
 end
 
