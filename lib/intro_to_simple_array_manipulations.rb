@@ -15,7 +15,7 @@ def using_pop
 end
 
 def pop_with_args
-  
+  chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
 end
 
 def using_shift
